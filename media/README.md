@@ -1,0 +1,1 @@
+# Stores visuals, such as photos of the hardware, architecture diagrams, and other illustrations.

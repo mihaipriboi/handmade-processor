@@ -1,0 +1,1 @@
+Dedicated to the physical components and layouts, including schematics, and a list of parts required for construction.

@@ -1,0 +1,1 @@
+# For all written documentation research notes, and design specifications.
