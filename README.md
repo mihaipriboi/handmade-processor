@@ -24,11 +24,14 @@ This is a hands-on project, aiming to create a practical, educational, and expan
 - Ensure the system is expandable for future upgrades and additional features.
 
 ## Key Features (Planned)
-- CPU: Basic processor design, including an ALU, control unit, and registers.
-- Memory: Integration of RAM for temporary data storage.
-- Display: A compact pixel-based screen for output visualization.
-- I/O Capabilities: Ports for external devices, such as a keyboard or sensors.
-- Programming: Support for an assembly-level language (low-level programming specific to the processor) and the development of a custom higher-level language with a compiler for ease of use.
+- **CPU**: Basic processor design, including an ALU, control unit, and registers.
+- **Memory**: Integration of **64KB RAM**, for temporary data storage.
+- **Display**: A small, pixel-based display for output visualization (e.g., 64x64 or similar resolution).
+- **I/O Capabilities**: Ports for external devices such as keyboards, sensors, or other peripherals.
+- **Programming**: 
+  - An assembly-like language for low-level programming specific to the processor.
+  - A custom higher-level language with a **compiler** designed to simplify programming.
+
 
 ## Development Roadmap
 The project will follow a structured development process, divided into several key phases: The Roadmap will be updated as the project progresses.
